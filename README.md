@@ -5,7 +5,20 @@
 O contraste entre a riqueza dos banquetes medievais e a falta de higiene da época é um tema fantástico. O público adora esse tipo de choque cultural.Aqui está um roteiro cinematográfico pronto para produção, feito para prender a atenção logo nos primeiros segundos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Roteiro (Texto) ChatGPT:O que fazer: Escreva a ideia do seu vídeo ou peça para uma IA criar o texto.
+
+ElevenLabs é uma plataforma de inteligência artificial especializada em áudio, voz e som realista. Ela transforma textos em falas humanas ultra-expressivas e recria vozes reais com precisão digital.
+
+Leonardo.ai criaçãoiImagens de alta qualidade
+
+Transformando Imagens em Vídeo (Movimento) :  
+Pippit AI transforma imagem em vídeo , permite enviar um conjunto de imagens estáticas e o Pippit AI corta, adiciona animações automáticas e gera um vídeo final dinâmico.
+
+Montagem Final e Legendas Automáticas :Junte todas as peças do quebra-cabeça de forma rápida: 
+Ferramenta: CapCut.
+Como fazer:Importe o áudio da narração da ElevenLabs.Coloque os clipes de vídeo gerados por IA por cima, cortando no ritmo da fala.
+
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo

@@ -1,8 +1,6 @@
 # "A Nojenta Verdade sobre os Banquetes Medievais"
 
 
-# Título do Projeto Extremamente Aesthetic ;)
-
 ## 📒 Descrição
 Breve descrição do seu projeto
 

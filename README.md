@@ -6,18 +6,14 @@ O contraste entre a riqueza dos banquetes medievais e a falta de higiene da épo
 
 ## 🤖 Tecnologias Utilizadas
 
-(- ChatGPT
+**ChatGPT** 
 
-ElevenLabs é uma plataforma de inteligência artificial especializada em áudio, voz e som realista. Ela transforma textos em falas humanas ultra-expressivas e recria vozes reais com precisão digital.
+**ElevenLabs** 
 
-Leonardo.ai criaçãoiImagens de alta qualidade
+**Leonardo.ai** 
 
-Transformando Imagens em Vídeo (Movimento) :  
-Pippit AI transforma imagem em vídeo , permite enviar um conjunto de imagens estáticas e o Pippit AI corta, adiciona animações automáticas e gera um vídeo final dinâmico.
+**CapCut**
 
-Montagem Final e Legendas Automáticas :Junte todas as peças do quebra-cabeça de forma rápida: 
-Ferramenta: CapCut.
-Como fazer:Importe o áudio da narração da ElevenLabs.Coloque os clipes de vídeo gerados por IA por cima, cortando no ritmo da fala.
 
 
 ## 🧐 Processo de Criação

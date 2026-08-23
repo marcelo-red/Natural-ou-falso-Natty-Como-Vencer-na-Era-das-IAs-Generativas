@@ -29,7 +29,7 @@ O contraste entre a riqueza dos banquetes medievais e a falta de higiene da épo
 **Ferramenta: CapCut**. É feita a montagem Final do projeto de forma  automáticas onde sejJunta todas as peças do quebra-cabeça de forma rápida:Como fazer,Importe o áudio da narração da ElevenLabs. Coloque os clipes de vídeo gerados por IA por cima, cortando no ritmo da fala, assim vc gera um video já com a voz embutida no ideo original criado antes.
 
 ## 🚀 Resultados
-"Este projeto valida a viabilidade de uma linha de produção automatizada de conteúdo audiovisual histórico (Nicho Medieval) utilizando Inteligência Artificial Generativa. O resultado é um vídeo de 60 segundos com estética cinematográfica, roteiro estruturado e narração ultrarrealista, com custo de produção zero e alta velocidade de entrega."
+"Este projeto valida a viabilidade de uma linha de produção automatizada de conteúdo audiovisual histórico (Nicho Medieval) utilizando Inteligência Artificial Generativa. O resultado é um vídeo de 60 segundos com estética cinematográfica, roteiro estruturado e narração ultrarrealista, com custo de produção zero e alta velocidade de entrega feito para prender a atenção logo nos primeiros segundos."
 
 ## 💭 Reflexão Final:
 

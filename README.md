@@ -31,6 +31,15 @@ O contraste entre a riqueza dos banquetes medievais e a falta de higiene da épo
 ## 🚀 Resultados
 "Este projeto valida a viabilidade de uma linha de produção automatizada de conteúdo audiovisual histórico (Nicho Medieval) utilizando Inteligência Artificial Generativa. O resultado é um vídeo de 60 segundos com estética cinematográfica, roteiro estruturado e narração ultrarrealista, com custo de produção zero e alta velocidade de entrega feito para prender a atenção logo nos primeiros segundos."
 
+
+
+
+
+
+https://github.com/user-attachments/assets/df0f09db-3f70-47a7-b46f-6b381a11f0c3
+
+
+
 ## 💭 Reflexão Final:
 
 **O Humano como Diretor na Era das IAs**

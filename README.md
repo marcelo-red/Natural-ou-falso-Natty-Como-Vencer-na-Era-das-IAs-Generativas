@@ -12,16 +12,16 @@ O contraste entre a riqueza dos banquetes medievais e a falta de higiene da épo
 
 **Leonardo.ai** 
 
-**CapCut**
+**Ferramenta CapCut**
 
 
 
 ## 🧐 Processo de Criação
-Roteiro (Texto) ChatGPT:O que fazer: Escreva a ideia do seu vídeo ou peça para uma IA criar o texto.
+**Roteiro (Texto) ChatGPT**:O que fazer: Escreva a ideia do seu vídeo ou peça para uma IA criar o texto.
 
-ElevenLabs é uma plataforma de inteligência artificial especializada em áudio, voz e som realista. Ela transforma textos em falas humanas ultra-expressivas e recria vozes reais com precisão digital.
+**ElevenLabs** é uma plataforma de inteligência artificial especializada em áudio, voz e som realista. Ela transforma textos em falas humanas ultra-expressivas e recria vozes reais com precisão digital.
 
-Leonardo.ai criaçãoiImagens de alta qualidade
+** criaçãoiImagens de alta qualidade
 
 Transformando Imagens em Vídeo (Movimento) :  
 Pippit AI transforma imagem em vídeo , permite enviar um conjunto de imagens estáticas e o Pippit AI corta, adiciona animações automáticas e gera um vídeo final dinâmico.

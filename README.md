@@ -2,7 +2,7 @@
 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O contraste entre a riqueza dos banquetes medievais e a falta de higiene da época é um tema fantástico. O público adora esse tipo de choque cultural.Aqui está um roteiro cinematográfico pronto para produção, feito para prender a atenção logo nos primeiros segundos.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
